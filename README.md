@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @john-er
+- I'm a teenager who is very instrested in programming
+- My prefered language is Python, but I am also fairly competened in WebDev
+- I’m currently learning C#
