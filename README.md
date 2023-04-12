@@ -1,5 +1,5 @@
 
-<img style="border-radius : 2%; width : 100%; height: 60%;" src='https://user-images.githubusercontent.com/91457967/231398858-e3706719-56ab-4ff2-975b-5f8610ecccdd.jpeg'></img>
+<img style="border-radius : 2%; width : 100%; height: 60%;" src='https://user-images.githubusercontent.com/91457967/231398791-8d9838f1-aadc-4c73-8be2-8278e74959b8.jpg'></img>
 
 <h1>Hi, I'm John Erinjery! 👋</h1>
 
@@ -10,5 +10,5 @@
 - I enjoy reading 📚
 - I also like anime and manga
 - Most of my projects are tools for satisfying my hobbies, I hope you can find them useful as well!
-  
+
 <br/>
